@@ -1,0 +1,24 @@
+{
+  "name": "alpha-chess",
+  "version": "1.0.0",
+  "description": "My Chess playing AI that will eventually beat me. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohandalvi/alpha-chess.git"
+  },
+  "keywords": [
+    "Chess",
+    "AI",
+    "Alpha-chess"
+  ],
+  "author": "Rohan Dalvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohandalvi/alpha-chess/issues"
+  },
+  "homepage": "https://github.com/rohandalvi/alpha-chess#readme"
+}
