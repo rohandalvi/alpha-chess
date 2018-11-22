@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/rohandalvi/alpha-chess#readme",
   "dependencies": {
-    "chess.js": "^0.10.2"
+    "chess.js": "^0.10.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
   }
 }
