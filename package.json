@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rohandalvi/alpha-chess/issues"
   },
-  "homepage": "https://github.com/rohandalvi/alpha-chess#readme"
+  "homepage": "https://github.com/rohandalvi/alpha-chess#readme",
+  "dependencies": {
+    "chess.js": "^0.10.2"
+  }
 }
